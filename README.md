@@ -52,7 +52,7 @@ In this project, we will use several tools, including:
 - Microsoft PowerPoint: for presentation files of our work
   
 ### Task
-- In this project, you are tasked with importing the provided datasets (**Dataset.rar**) into tables in BigQuery. The table names should match the dataset names, but without the ".csv" extension.
+- In this project, you are tasked with importing the provided datasets (`Dataset.rar`) into tables in BigQuery. The table names should match the dataset names, but without the ".csv" extension.
 - you are also required to create an analysis table based on aggregated results from the four previously imported tables. The following columns are mandatory for the analysis table:
   - transaction_id: transaction ID code,
   - date: the date the transaction occurred,
@@ -89,7 +89,7 @@ In this project, we will use several tools, including:
 
 ### Results
 #### Query
-The **SQL and Result.rar** file contains the following SQL and CSV files:  
+The `SQL and Result.rar` file contains the following SQL and CSV files:  
 - **kf_analisa_suyanto.sql**: SQL syntax for the `analisa` table  
 - **kf_analisa_suyanto.csv**: CSV file containing the result of the `kf_analisa_suyanto.sql` file  
 - **kf_inventory_suyanto.sql**: SQL syntax for the `inventory` table  
@@ -105,4 +105,7 @@ link : [Google Looker Studio : Dashboard](https://lookerstudio.google.com/s/pY2d
 
 #### Youtube
 link : [Youtube : Presentation Video](https://youtu.be/RxbwlvBtqCg)
+
+#### Microsoft Power Point
+file name : `FinalTask_KimiaFarma_BDA_Suyanto.pptx`
 
