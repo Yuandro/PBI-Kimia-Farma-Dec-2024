@@ -38,10 +38,10 @@ As Big Data Analytics Interns at Kimia Farma, our role involves tackling various
 
 ### Dataset
 In this project, we will receive 4 CSV tables.
-- kf_final_transaction.csv : customer transaction details
-- kf_inventory.csv : product inventory stocks
-- kf_kantor_cabang.csv : branch store details
-- kf_product.csv : product details
+- **kf_final_transaction.csv** : customer transaction details
+- **kf_inventory.csv** : product inventory stocks
+- **kf_kantor_cabang.csv** : branch store details
+- **kf_product.csv** : product details
 
 ### Tools
 In this project, we will use several tools, including:
@@ -52,7 +52,7 @@ In this project, we will use several tools, including:
 - Microsoft PowerPoint: for presentation files of our work
   
 ### Task
-- In this project, you are tasked with importing the provided datasets (Dataset.rar) into tables in BigQuery. The table names should match the dataset names, but without the ".csv" extension.
+- In this project, you are tasked with importing the provided datasets (**Dataset.rar**) into tables in BigQuery. The table names should match the dataset names, but without the ".csv" extension.
 - you are also required to create an analysis table based on aggregated results from the four previously imported tables. The following columns are mandatory for the analysis table:
   - transaction_id: transaction ID code,
   - date: the date the transaction occurred,
@@ -89,16 +89,14 @@ In this project, we will use several tools, including:
 
 ### Results
 #### Query
-The rar file contains the following SQL and CSV files:  
+The **SQL and Result.rar** file contains the following SQL and CSV files:  
 - **kf_analisa_suyanto.sql**: SQL syntax for the `analisa` table  
 - **kf_analisa_suyanto.csv**: CSV file containing the result of the `kf_analisa_suyanto.sql` file  
 - **kf_inventory_suyanto.sql**: SQL syntax for the `inventory` table  
 - **kf_inventory_suyanto.csv**: CSV file containing the result of the `kf_inventory_suyanto.sql` file  
 
 #### Google Looker Studio : Dashboard
-
 link : [Google Looker Studio : Dashboard](https://lookerstudio.google.com/s/pY2dIJBmflo)
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/891e5109-8808-4829-a3fd-0a0e4b6e80d2" alt="Overview Page">
   <img src="https://github.com/user-attachments/assets/b80e26f5-22ad-4cca-a95f-69073e9b4645" alt="Detailed Page">
