@@ -10,6 +10,7 @@ In 2020, 90.025% of Kimia Farma's shares were transferred to PT Bio Farma (Perse
 ![image](https://github.com/user-attachments/assets/f5508bda-505c-42b4-a389-d0a4235e4d6a)
 
 
+
 This Repository Consists of 3 Files:
 1. Dataset.rar
    - kf_final_transaction.csv
