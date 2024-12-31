@@ -4,6 +4,7 @@
 <p align="justify">
 The Project-Based Internship Program, a collaboration between Rakamin Academy and Kimia Farma Big Data Analytics, is a self-development and career acceleration initiative designed for those interested in pursuing the role of Big Data Analytics at Kimia Farma. This program provides foundational learning resources, including Article Reviews (reading materials) and Company Coaching Videos (learning videos), to introduce participants to the competencies and skills required for a Big Data Analytics professional in the company. In addition to the materials, participants will be evaluated weekly through Task assignments and will complete a final project that will serve as their portfolio for this program.
 </p>
+
 ## About Kimia Farma
 ![logo-removebg-preview](https://github.com/user-attachments/assets/ff0199ba-8528-4a16-b4d4-6ff76456a129)
 
