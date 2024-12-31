@@ -112,3 +112,12 @@ file name : `FinalTask_KimiaFarma_BDA_Suyanto.pptx`
 #### GitHub Repository
 Link : [PBI-Kimia-Farma-Dec-2024](https://github.com/Yuandro/PBI-Kimia-Farma-Dec-2024)
 
+
+## Let's Connect! 🌐  
+- [LinkedIn](https://www.linkedin.com/in/suyanto-zhang/)   
+
+<p align="center">
+  🚀 Happy Coding! 🌟
+</p>
+
+
