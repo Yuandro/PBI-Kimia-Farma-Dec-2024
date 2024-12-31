@@ -75,7 +75,17 @@ In this project, we will use several tools, including:
    - nett_sales: price after the discount,
    - nett_profit: profit earned by Kimia Farma,
    - rating_transaksi: customer rating for the transaction.
-
+- In this project, you are required to create a performance analysis dashboard for Kimia Farma from 2020-2023 in Google Looker Studio. This dashboard should be based on the analysis table you previously created in BigQuery, so you will need to connect that table to Google Looker Studio. You are free to design the dashboard according to your creativity, but it must include the following:
+  - Dashboard Title
+  - Dashboard Summary
+  - Filter Control
+  - Data Snapshot
+  - Comparison of Kimia Farma’s revenue year-over-year
+  - Top 10 branches by total transactions in each province
+  - Top 10 branches by net sales in each province
+  - Top 5 branches with the highest ratings but lowest transaction ratings
+  - Indonesia's Geo Map showing total profit by province
+  - Additional analysis that you can explore.
 
 
 2. "SQL and Result.rar"
