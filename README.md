@@ -10,7 +10,7 @@ Founded in 1817 by the Dutch East Indies government, Kimia Farma is Indonesia's 
 
 In 2020, 90.025% of Kimia Farma's shares were transferred to PT Bio Farma (Persero), forming the State-Owned Pharmaceutical Holding. Along with this restructuring, the company’s name changed to PT Kimia Farma Tbk. With decades of experience, Kimia Farma continues to play a vital role in national health development.
 
-website : [kimiafarma.co.id](kimiafarma.co.id)
+website : [kimiafarma.co.id](https://www.kimiafarma.co.id/)
 
 
 
