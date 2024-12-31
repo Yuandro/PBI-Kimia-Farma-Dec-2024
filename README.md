@@ -37,14 +37,29 @@ As Big Data Analytics Interns at Kimia Farma, our role involves tackling various
 </p>
 
 ### Dataset
-in this pro
+In this project, we will receive 4 CSV tables.
+- kf_final_transaction.csv : customer transaction details
+- kf_inventory.csv : product inventory stocks
+- kf_kantor_cabang.csv : branch store details
+- kf_product.csv : product details
+
+### Tools
+In this project, we will use several tools, such as...
+- Google BigQuery : Query table
+- Google Looker Studio : Visualization dashboard
+- Youtube : Video Presentation
+- Github : Storing query result
+- Microsoft Power Point : presentation files of work
+
+### Task
+- In this project, you are tasked with importing the provided datasets (Dataset.rar) into tables in BigQuery. The table names should match the dataset names, but without the ".csv" extension.
+- you are also required to create an analysis table based on aggregated results from the four previously imported tables. The following columns are mandatory for the analysis table:
+  - transaction_id: transaction ID code,
+  - date: the date the transaction occurred,
+  - branch_id: Kimia Farma branch ID code,
 
 
-1. Dataset.rar
-   - kf_final_transaction.csv
-   - kf_inventory.csv
-   - kf_kantor_cabang.csv
-   - kf_product.csv
+
 2. "SQL and Result.rar"
     - kf_analisa_suyanto.sql
     - kf_analisa_suyanto.csv
@@ -52,12 +67,7 @@ in this pro
     - kf_inventory_suyanto.csv
 
 
-Tools :
-- Google BigQuery
-- Google Looker Studio
-- Microsoft Power Point
-- GitHub
-- Youtube
+
 
 
 
