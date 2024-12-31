@@ -88,9 +88,15 @@ In this project, we will use several tools, including:
   - Additional analysis that you can explore.
 
 ### Results
-
+#### Query
+The rar file contains the following SQL and CSV files:  
+- **kf_analisa_suyanto.sql**: SQL syntax for the `analisa` table  
+- **kf_analisa_suyanto.csv**: CSV file containing the result of the `kf_analisa_suyanto.sql` file  
+- **kf_inventory_suyanto.sql**: SQL syntax for the `inventory` table  
+- **kf_inventory_suyanto.csv**: CSV file containing the result of the `kf_inventory_suyanto.sql` file  
 
 #### Google Looker Studio : Dashboard
+
 link : [Google Looker Studio : Dashboard](https://lookerstudio.google.com/s/pY2dIJBmflo)
 
 <p align="center">
@@ -99,23 +105,6 @@ link : [Google Looker Studio : Dashboard](https://lookerstudio.google.com/s/pY2d
   <img src="https://github.com/user-attachments/assets/b8395184-523a-4ad8-9b64-674c6abc001c" alt="Inventory Page">
 </p>
 
-2. "SQL and Result.rar"
-    - kf_analisa_suyanto.sql
-    - kf_analisa_suyanto.csv
-    - kf_inventory_suyanto.sql
-    - kf_inventory_suyanto.csv
-
-
-![image](https://github.com/user-attachments/assets/891e5109-8808-4829-a3fd-0a0e4b6e80d2)
-![image](https://github.com/user-attachments/assets/b80e26f5-22ad-4cca-a95f-69073e9b4645)
-![image](https://github.com/user-attachments/assets/b8395184-523a-4ad8-9b64-674c6abc001c)
-
-
-https://youtu.be/RxbwlvBtqCg
-
-
-
-
-
-
+#### Youtube
+link : [Youtube : Presentation Video](https://youtu.be/RxbwlvBtqCg)
 
