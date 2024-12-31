@@ -7,10 +7,10 @@ This Repository Consists of 3 Files:
    - kf_kantor_cabang.csv
    - kf_product.csv
 2. "SQL and Result.rar"
-  - kf_analisa_suyanto.sql
-  - kf_analisa_suyanto.csv
-  - kf_inventory_suyanto.sql
-  - kf_inventory_suyanto.csv
+    - kf_analisa_suyanto.sql
+    - kf_analisa_suyanto.csv
+    - kf_inventory_suyanto.sql
+    - kf_inventory_suyanto.csv
 
 
 Tools :
