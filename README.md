@@ -1,8 +1,8 @@
 # Project Based Internship - Kimia Farma Big Data Analytics x Rakamin Academy
 
 ## Table of Contents
-- [About Program](#AboutProgram)
-- [Features](#features)
+- [About Program](#about-program)
+- [About Kimia Farma](#about-kimia-farma)
 - [Tools Used](#tools-used)
 - [Installation](#installation)
 - [Usage](#usage)
