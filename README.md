@@ -45,11 +45,11 @@ In this project, we will receive 4 CSV tables.
 
 ### Tools
 In this project, we will use several tools, including:
-- Google BigQuery: for querying tables,
-- Google Looker Studio: for creating visualization dashboards,
-- YouTube: for video presentations,
-- GitHub: for storing query results,
-- Microsoft PowerPoint: for presentation files of our work
+- **Google BigQuery**: for querying tables,
+- **Google Looker Studio**: for creating visualization dashboards,
+- **YouTube**: for video presentations,
+- **GitHub**: for storing query files and results,
+- **Microsoft PowerPoint**: for presentation files of our work
   
 ### Task
 - In this project, you are tasked with importing the provided datasets (`Dataset.rar`) into tables in BigQuery. The table names should match the dataset names, but without the ".csv" extension.
