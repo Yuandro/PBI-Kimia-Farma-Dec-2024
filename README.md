@@ -87,6 +87,9 @@ In this project, we will use several tools, including:
   - Indonesia's Geo Map showing total profit by province
   - Additional analysis that you can explore.
 
+### Results
+
+
 
 2. "SQL and Result.rar"
     - kf_analisa_suyanto.sql
