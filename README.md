@@ -109,3 +109,6 @@ link : [Youtube : Presentation Video](https://youtu.be/RxbwlvBtqCg)
 #### Microsoft Power Point
 file name : `FinalTask_KimiaFarma_BDA_Suyanto.pptx`
 
+#### GitHub Repository
+Link : [PBI-Kimia-Farma-Dec-2024](https://github.com/Yuandro/PBI-Kimia-Farma-Dec-2024)
+
