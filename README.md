@@ -1,5 +1,16 @@
 # Project Based Internship - Kimia Farma Big Data Analytics x Rakamin Academy
 
+## Table of Contents
+- [About Program](#AboutProgram)
+- [Features](#features)
+- [Tools Used](#tools-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Files in the Project](#files-in-the-project)
+- [Dashboard Details](#dashboard-details)
+- [Acknowledgments](#acknowledgments)
+
+
 ## About Program
 <p align="justify">
 The Project-Based Internship Program, a collaboration between Rakamin Academy and Kimia Farma Big Data Analytics, is a self-development and career acceleration initiative designed for those interested in pursuing the role of Big Data Analytics at Kimia Farma. This program provides foundational learning resources, including Article Reviews (reading materials) and Company Coaching Videos (learning videos), to introduce participants to the competencies and skills required for a Big Data Analytics professional in the company. In addition to the materials, participants will be evaluated weekly through Task assignments and will complete a final project that will serve as their portfolio for this program.
@@ -43,7 +54,7 @@ In this project, we will receive 4 CSV tables.
 - **kf_kantor_cabang.csv** : branch store details
 - **kf_product.csv** : product details
 
-### Tools
+### Tools 🛠️
 In this project, we will use several tools, including:
 - **Google BigQuery**: for querying tables,
 - **Google Looker Studio**: for creating visualization dashboards,
@@ -88,14 +99,14 @@ In this project, we will use several tools, including:
   - **Additional analysis that you can explore**
 
 ### Results
-#### Query
+#### BigQuery 📊
 The `SQL and Result.rar` file contains the following SQL and CSV files:  
 - **kf_analisa_suyanto.sql**: SQL syntax for the `analisa` table  
 - **kf_analisa_suyanto.csv**: CSV file containing the result of the `kf_analisa_suyanto.sql` file  
 - **kf_inventory_suyanto.sql**: SQL syntax for the `inventory` table  
 - **kf_inventory_suyanto.csv**: CSV file containing the result of the `kf_inventory_suyanto.sql` file  
 
-#### Google Looker Studio : Dashboard
+#### Google Looker Studio : Dashboard 📈
 link : [Google Looker Studio : Dashboard](https://lookerstudio.google.com/s/pY2dIJBmflo)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/891e5109-8808-4829-a3fd-0a0e4b6e80d2" alt="Overview Page">
@@ -109,7 +120,7 @@ link : [Youtube : Presentation Video](https://youtu.be/RxbwlvBtqCg)
 #### Microsoft Power Point
 file name : `FinalTask_KimiaFarma_BDA_Suyanto.pptx`
 
-#### GitHub Repository
+#### GitHub Repository 📁
 Link : [PBI-Kimia-Farma-Dec-2024](https://github.com/Yuandro/PBI-Kimia-Farma-Dec-2024)
 
 
