@@ -31,6 +31,14 @@ Over the past three years, Rakamin Academy has expanded its offerings to include
 website : [rakamin.com](https://www.rakamin.com)
 </p>
 
+## About Project
+<p align="justify">
+We as a Big Data Analytics Intern at Kimia Farma, your responsibilities will include a range of challenges requiring a deep understanding of data and analytical skills. One of your main projects will be evaluating Kimia Farma's business performance from 2020 to 2023.
+
+</p>
+
+
+
 This Repository Consists of 3 Files:
 1. Dataset.rar
    - kf_final_transaction.csv
