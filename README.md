@@ -7,9 +7,7 @@ The Project-Based Internship Program, a collaboration between Rakamin Academy an
 
 ## About Kimia Farma
 <p align="center">
-   
-<![logo-removebg-preview](https://github.com/user-attachments/assets/ff0199ba-8528-4a16-b4d4-6ff76456a129)>
-
+  <img src="https://github.com/user-attachments/assets/ff0199ba-8528-4a16-b4d4-6ff76456a129" alt="logo-removebg-preview">
 </p>
 
 Founded in 1817 by the Dutch East Indies government, Kimia Farma is Indonesia's first pharmaceutical company. Initially named NV Chemicalien Handle Rathkamp & Co, it was nationalized in 1958 and renamed PNF Bhinneka Kimia Farma. The company transitioned to PT Kimia Farma (Persero) in 1971 and became a publicly listed company in 2001, establishing itself as an integrated healthcare provider contributing significantly to Indonesia's health sector.
