@@ -19,6 +19,12 @@ website : [kimiafarma.co.id](https://www.kimiafarma.co.id/)
 </p>
 
 ## About Rakamin Academy
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de2ace4f-e08d-4158-934f-cb1998424045" alt="logo_rakamin-71bcd472-2d26-48e1-a544-4912cb59fb2d">
+</p>
+![logo_rakamin-71bcd472-2d26-48e1-a544-4912cb59fb2d](https://github.com/user-attachments/assets/de2ace4f-e08d-4158-934f-cb1998424045)
+
+
 <p align="justify">
 Rakamin Academy, founded in June 2020 by CEO Andika Deni Prasetya, was established to bridge the gap between industry demands and the skills and knowledge of school and university graduates in Indonesia. With a vision to create an inclusive and impactful educational ecosystem that improves societal well-being, Rakamin Academy offers affordable, accessible programs designed to empower individuals to develop and achieve better career opportunities. This commitment is reflected in its digital-based programs, including courses, project-based internships, and intensive bootcamps in high-demand fields like Data Science and Digital Marketing.
 
