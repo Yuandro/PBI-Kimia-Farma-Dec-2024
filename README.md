@@ -1,4 +1,6 @@
+<p align="center">
 # Project Based Internship - Kimia Farma Big Data Analytics x Rakamin Academy
+</p>
 
 ## About Program
 <p align="justify">
