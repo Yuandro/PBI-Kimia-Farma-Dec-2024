@@ -3,12 +3,11 @@
 ## Table of Contents
 - [About Program](#about-program)
 - [About Kimia Farma](#about-kimia-farma)
-- [Tools Used](#tools-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Files in the Project](#files-in-the-project)
-- [Dashboard Details](#dashboard-details)
-- [Acknowledgments](#acknowledgments)
+- [About Rakamin Academy](#about-rakamin-academy)
+- [About Project](#about-project)
+  - [Dataset](#dataset)
+  - [Tools](#tools)
+  - [Task](#task)
 
 
 ## About Program
