@@ -12,9 +12,9 @@
     - [BigQuery 📊](#bigquery-)
     - [Google Looker Studio : Dashboard 📈](#google-looker-studio--dashboard-)
     - [Youtube 🎥](#youtube-)
-    - Microsoft Power Point
-    - GitHub Repository
-- Let's Connect !
+    - [Microsoft Power Point 📝](#microsoft-power-point-)
+    - [GitHub Repository 📁](#github-repository-)
+- [Let's Connect! 🌐](#lets-connect-)
 
 
 ## About Program
