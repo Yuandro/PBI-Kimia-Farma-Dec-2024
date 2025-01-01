@@ -7,7 +7,8 @@
 - [About Project](#about-project)
   - [Dataset](#dataset-)
   - [Tools 🛠️](#tools-%EF%B8%8F)
-  - [Task](#task-)
+  - [Tasks](#tasks-)
+  - [Results](#results)
 
 
 ## About Program
@@ -61,7 +62,7 @@ In this project, we will use several tools, including:
 - **GitHub**: for storing query files and results,
 - **Microsoft PowerPoint**: for presentation files of our work
   
-### Task 🎯
+### Tasks 🎯
 - In this project, you are tasked with importing the provided datasets (`Dataset.rar`) into tables in BigQuery. The table names should match the dataset names, but without the ".csv" extension.
 - you are also required to create an analysis table based on aggregated results from the four previously imported tables. The following columns are mandatory for the analysis table:
   - `transaction_id`: transaction ID code,
