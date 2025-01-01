@@ -14,7 +14,7 @@
     - Youtube
     - Microsoft Power Point
     - GitHub Repository
-  - Let's Connect !
+- Let's Connect !
 
 
 ## About Program
