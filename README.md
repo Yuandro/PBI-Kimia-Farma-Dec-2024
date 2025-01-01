@@ -9,6 +9,12 @@
   - [Tools 🛠️](#tools-%EF%B8%8F)
   - [Tasks](#tasks-)
   - [Results](#results)
+    - BigQuery
+    - Google Looker Studio : Dashboard
+    - Youtube
+    - Microsoft Power Point
+    - GitHub Repository
+  - Let's Connect !
 
 
 ## About Program
@@ -117,7 +123,7 @@ link : [Google Looker Studio : Dashboard](https://lookerstudio.google.com/s/pY2d
 #### Youtube 🎥
 link : [Youtube : Presentation Video](https://youtu.be/RxbwlvBtqCg)
 
-#### Microsoft Power Point
+#### Microsoft Power Point 📝
 file name : `FinalTask_KimiaFarma_BDA_Suyanto.pptx`
 
 #### GitHub Repository 📁
