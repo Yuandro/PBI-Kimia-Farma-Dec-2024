@@ -9,7 +9,7 @@
   - [Tools 🛠️](#tools-%EF%B8%8F)
   - [Tasks](#tasks-)
   - [Results](#results)
-    - BigQuery
+    - [BigQuery]
     - Google Looker Studio : Dashboard
     - Youtube
     - Microsoft Power Point
