@@ -9,9 +9,9 @@
   - [Tools 🛠️](#tools-%EF%B8%8F)
   - [Tasks](#tasks-)
   - [Results](#results)
-    - [BigQuery]
-    - Google Looker Studio : Dashboard
-    - Youtube
+    - [BigQuery 📊](#bigquery-)
+    - [Google Looker Studio : Dashboard 📈](#google-looker-studio--dashboard-)
+    - [Youtube 🎥](#youtube-)
     - Microsoft Power Point
     - GitHub Repository
 - Let's Connect !
