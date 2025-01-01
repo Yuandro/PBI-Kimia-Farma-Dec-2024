@@ -46,7 +46,7 @@ website : [rakamin.com](https://www.rakamin.com)
 As Big Data Analytics Interns at Kimia Farma, our role involves tackling various challenges that demand a deep understanding of data and strong analytical skills. One of our key projects will be analyzing Kimia Farma's business performance from 2020 to 2023.
 </p>
 
-### Dataset
+### Dataset 📊
 In this project, we will receive 4 CSV tables.
 - **kf_final_transaction.csv** : customer transaction details
 - **kf_inventory.csv** : product inventory stocks
@@ -61,7 +61,7 @@ In this project, we will use several tools, including:
 - **GitHub**: for storing query files and results,
 - **Microsoft PowerPoint**: for presentation files of our work
   
-### Task
+### Task 🎯
 - In this project, you are tasked with importing the provided datasets (`Dataset.rar`) into tables in BigQuery. The table names should match the dataset names, but without the ".csv" extension.
 - you are also required to create an analysis table based on aggregated results from the four previously imported tables. The following columns are mandatory for the analysis table:
   - `transaction_id`: transaction ID code,
@@ -113,7 +113,7 @@ link : [Google Looker Studio : Dashboard](https://lookerstudio.google.com/s/pY2d
   <img src="https://github.com/user-attachments/assets/b8395184-523a-4ad8-9b64-674c6abc001c" alt="Inventory Page">
 </p>
 
-#### Youtube
+#### Youtube 🎥
 link : [Youtube : Presentation Video](https://youtu.be/RxbwlvBtqCg)
 
 #### Microsoft Power Point
