@@ -121,8 +121,6 @@ link : [Google Looker Studio : Dashboard](https://lookerstudio.google.com/s/pY2d
 </p>
 
 #### Youtube 🎥
-link : [Youtube : Presentation Video](https://youtu.be/RxbwlvBtqCg)
-
 [![](https://markdown-videos-api.jorgenkh.no/youtube/RxbwlvBtqCg)](https://youtu.be/RxbwlvBtqCg)
 
 
